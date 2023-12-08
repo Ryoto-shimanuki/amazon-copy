@@ -177,6 +177,12 @@ footer {
   transform: translate(-50%);
   
 }
+
+.footer-container img{
+  display: inline-block;
+  width: 100%;
+}
+
 .footer-txt{
  height: 100px;
  width: 500px;
